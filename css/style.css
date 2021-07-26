@@ -8,7 +8,7 @@ body {
 header {
     width: 100%;
     height: 100vh;
-    background: url( ../img/bg-header.png);
+    background: url( ../img/sebastian-ervi-uCZVEo8iT9Q-unsplash.jpg);
     background-size: cover;
 
 }
@@ -23,7 +23,7 @@ nav{
     align-items: center;
 }
 nav .logo{
-width: 300px;
+width: 350px;
 display: inline-block;
 }
 nav ul{
@@ -40,7 +40,7 @@ nav ul li{
     border-bottom: 2px solid transparent;
 }
 nav ul li:hover {
-    border-bottom:2px solid white ;
+    border-bottom:2px solid rgb(160, 0, 0) ;
 }
 
 nav ul li a {
@@ -50,7 +50,7 @@ text-decoration: none;
 }
 #hero {
     text-align: center;
-    padding-top: 120px;
+    padding-top: 60px;
 }
 
 #hero img {
@@ -64,14 +64,14 @@ text-decoration: none;
 
 #hero h2{
     font-size: 50px;
-    color: #e8f00c;
+    color: #a50404;
 }
 #hero p {
-    color: white;
+    color:whitesmoke;
     text-transform: uppercase;
 }
 #hero button {
-    background: #e8f00c;
+    background: #a50404;
     padding: 15px 40px;
     font-size: 25px;
     color: gray;
@@ -111,7 +111,7 @@ text-decoration: none;
 }
 
 #planes .container .row .item-planes h2 {
-    color: #e8f00c;
+    color: #a50404;
     font-size: 25px;
     position: absolute;
     top: 87px;
@@ -121,7 +121,7 @@ text-decoration: none;
 
 #destinos {
     width: 100%;
-    background: url(../img/bg-destinos.png);
+    background: url(../img/concert.jpg);
     background-size: cover;
     padding-top: 70px;
     padding-bottom: 30px;
@@ -130,7 +130,7 @@ text-decoration: none;
 
 #destinos .container h2 {
     font-size: 40px;
-    color: #e8f00c;
+    color: #a50404;
 }
 
 #destinos .container .row {
@@ -153,7 +153,7 @@ text-decoration: none;
 }
 
 #contacto {
-    background: #e8f00c;
+    background: #a50404;
     text-align: center;
     width: 100%;
     padding-top: 65px;
@@ -184,7 +184,7 @@ text-decoration: none;
 }
 
 #contacto .container form button {
-    background: #898d0e;
+    background:black;
     color: #ffffff;
     padding: 12px 50px;
     font-size: 20px;
